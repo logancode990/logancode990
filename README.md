@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Logan (@logancode990) 👋
 
-<!--
-**logancode990/logancode990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile engineer based in Seattle. Most of my week is spent building cross-platform apps at App Studio. Big fan of clean state management, smooth 60fps animations, and offline-first setups that don't fall apart without Wi-Fi.
 
-Here are some ideas to get you started:
+#### 🛠 Core Tech
+- **Mobile:** Flutter, Dart, React Native, TypeScript
+- **Backend / Services:** Firebase, Node.js, REST, SQLite
+- **DevOps / Tooling:** Fastlane, GitHub Actions, Xcode, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm Up To
+- Exploring Flutter's Impeller rendering engine
+- Building a local-first audio journal app in my free time
+- Brushing up on native Swift & Kotlin for custom platform plugins
+
+#### 📫 Reach Out
+- Email: logan.dev990@gmail.com
+- LinkedIn: linkedin.com/in/logancode990
+- X: @logancode990
